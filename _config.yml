@@ -6,7 +6,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "SCW-Dublin"
 
 # Contact email address.
 email: lessons@software-carpentry.org
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: vasilislenis/2018-05-31-dublin-swc
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
